@@ -27,5 +27,5 @@ function calcularNivel(vitorias, derrotas) {
 }
 
 // 5. Para testar, chamamos a função e exibimos no console
-let resultado = calcularNivel(75, 20); // Exemplo: 75 vitórias e 20 derrotas
+let resultado = calcularNivel(95, 5); // Exemplo: 75 vitórias e 20 derrotas
 console.log(resultado);
