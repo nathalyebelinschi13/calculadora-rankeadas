@@ -1,6 +1,6 @@
 # 🎮 Calculadora de Partidas Rankeadas
 
-Este projeto foi desenvolvido como um desafio prático para consolidar conhecimentos básicos em **JavaScript** e lógica de programação.
+Este projeto foi desenvolvido como um desafio prático para consolidar conhecimentos básicos em **JavaScript** e lógica de programação (DIO).
 
 ## 📝 Objetivo
 O objetivo é criar uma função que calcule o saldo de vitórias e derrotas de um jogador e determine o seu nível de ranking com base na quantidade de vitórias.
