@@ -1,5 +1,5 @@
 # Calculadora de Partidas Rankeadas
-Projeto desenvolvido para praticar lógica de programação.
+Projeto desenvolvido para praticar lógica de programação DIO.
 
 ## Tecnologias Utilizadas
 - JavaScript
